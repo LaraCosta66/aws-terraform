@@ -1,0 +1,9 @@
+*.dll
+*.exe
+.terraform/
+*.log
+terraform.tfplan
+terraform.tfstate
+node_modules/
+*.tfstate
+*.zip
