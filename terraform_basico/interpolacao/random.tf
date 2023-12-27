@@ -1,3 +1,3 @@
-resource "random_pet" "name" {
+resource "random_pet" "bucket" {
  length =  5
 }
